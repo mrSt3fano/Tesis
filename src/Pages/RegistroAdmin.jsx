@@ -3,7 +3,7 @@ import { useReducer } from "react";
 import { UseForm } from "../Hooks/useForms";
 import { userReducer } from "../Reducer/userReducer";
 import Swal from 'sweetalert2'
-import { UserContext } from "../Context/UserContext";
+import { UserContext } from "../context/UserContext";
 
 const initialState = {
   users: [],
