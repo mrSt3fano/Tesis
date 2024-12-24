@@ -9,7 +9,7 @@ export const NavBar = () => {
 
     const [show, setShow] = useState(false)
     return (
-        <div className='bg-sky-950  h-[4rem] px-8 py-4 relative'>
+        <div className='bg-sky-950  h-[6rem] px-8 py-4 relative'>
             <div className='flex justify-between'>
                 <motion.div
                     initial={{ opacity: 0 }}

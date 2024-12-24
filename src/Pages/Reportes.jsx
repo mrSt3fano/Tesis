@@ -1,7 +1,7 @@
 import React from "react";
 
-export default function Reportes(){
+export default function Actualizar(){
     return(
-        <div className="h2">MÓDULO DE REPORTES</div>
+        <div className="h2">MÓDULO DE ACTUALIZACIÓN</div>
     )
 }

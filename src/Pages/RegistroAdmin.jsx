@@ -9,7 +9,7 @@ const initialState = {
   users: [],
 };  
 
-const RAdmin = function () {
+const Acceso = function () {
 
 const [formValues, handleInputChange, reset] = UseForm({
     nombres: "",
@@ -88,4 +88,4 @@ const onRegisterUser = (e) => {
         
 }
 
-export default RAdmin;
+export default Acceso;

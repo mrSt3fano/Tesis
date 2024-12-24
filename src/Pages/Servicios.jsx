@@ -1,7 +1,7 @@
 import React from "react";
 
-export default function Servicios(){
+export default function Informacion(){
     return(
-        <div className="h2">SERVICIOS AAAAAA</div>
+        <div className="h2">Acceso a información</div>
     )
 }
